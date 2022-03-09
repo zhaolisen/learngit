@@ -1,5 +1,5 @@
 Git is a distrbuted version control system
 Git is free software
 
-well，
+well
 today is Match 9th
